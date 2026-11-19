@@ -1,10 +1,18 @@
 ## Party Sidebar Tab for Zweihander
 
+## Compatibility
+
+- Foundry VTT **v14** (verified on 14.370)
+- Zweihander system **5.8.3** or newer
+
+This version targets v14 only. libWrapper is no longer required. For Foundry v12, use the previous release.
+
 This module adds a new tab to Foundry's right sidebar that displays the following information about party members:
 - Damage (and thresholds)
 - Peril (and thresholds)
 - Dodge and Parry chance (and buttons to roll them)
-- Toughness and Resolve (and buttons to roll them)
+- Madness chance (and a button to roll it)
+- Action Points (click the squares to spend/recover them)
 - Encumbrance and movement speed
 
 You have two options for adding a Player Character to the party:

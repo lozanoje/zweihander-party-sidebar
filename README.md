@@ -25,3 +25,7 @@ Additional functionality for the sidebar tab includes:
 - Add Corruption and Reward Points to party members through buttons at the top of the party member sidebar
 
 **Note**: This module is currently in a *prerelease* state; as such, expect bugs, and please report those that you find!
+
+## Big warning
+
+Update to v14 has been made using AI, whatever it might implies for you. So use at your own risk!

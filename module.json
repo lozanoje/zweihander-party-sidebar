@@ -3,10 +3,8 @@
   "title": "Party Sidebar for Zweihandr",
   "description": "Display the current party in your Zweihander game in Foundry's sidebar!",
   "authors": [
-    {
-      "name": "wyrmisis",
-      "discord": "wyrmisis"
-    }
+    { "name": "wyrmisis", "discord": "wyrmisis" },
+    { "name": "José Lozano", "discord": "viriato139ac" }
   ],
   "esmodules": [
     "dist/js/bundle.min.js"

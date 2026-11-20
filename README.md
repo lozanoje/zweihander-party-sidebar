@@ -26,6 +26,10 @@ Additional functionality for the sidebar tab includes:
 
 **Note**: This module is currently in a *prerelease* state; as such, expect bugs, and please report those that you find!
 
+## How to install
+
+Use this manifest to install it: ```https://github.com/lozanoje/zweihander-party-sidebar/releases/latest/download/module.json```
+
 ## Big warning
 
 Update to v14 has been made using AI, whatever it might implies for you. So use at your own risk!
